@@ -1,0 +1,31 @@
+{
+  "source": "Les_Portes_Dechues-V13.0.0-FR-EN-Java-1.21-26.3.zip",
+  "variant": "1.21-26.3",
+  "mod_id": "",
+  "recipes": [
+    {
+      "id": "bns:magma_to_gunpowder",
+      "type": "stonecutting",
+      "result": "minecraft:gunpowder",
+      "quantity": 1,
+      "inputs": [
+        "ingredient : minecraft:magma_cream"
+      ],
+      "pattern": [],
+      "name": "Gunpowder",
+      "source_path": "data/bns/recipe/magma_to_gunpowder.json"
+    },
+    {
+      "id": "bns:magma_to_slime",
+      "type": "stonecutting",
+      "result": "minecraft:slime_ball",
+      "quantity": 1,
+      "inputs": [
+        "ingredient : minecraft:magma_cream"
+      ],
+      "pattern": [],
+      "name": "Slime Ball",
+      "source_path": "data/bns/recipe/magma_to_slime.json"
+    }
+  ]
+}
